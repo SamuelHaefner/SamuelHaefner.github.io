@@ -25,7 +25,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 ### Working Papers
 - [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).   
-First Version: October 2024.
+First Version: October 2024. Latest Version: December 2024.
 - [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair)).  
 First Version: Mai 2021. Latest Version: Juli 2024.
 - [Optimal Compensation in Competitive Labor Markets with Heterogenous Employers and Workers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025526) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).  
