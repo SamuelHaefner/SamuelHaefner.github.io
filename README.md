@@ -34,6 +34,8 @@ First Version: November 2024.
 First Version: March 2020. Latest Version: September 2023.
 - [Blockchain Platform Design under Market Frictions: Decentralization, Service Provision, and Block Rewards](https://ssrn.com/abstract=3954773).  
 First Version: November 2021. Latest Version: September 2023.
+- [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/)).  
+ First Version: November 2018. Latest Version: October 2024.
 
 
 ### Teaching
