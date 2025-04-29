@@ -1,6 +1,8 @@
 I am an Assistant Professor of Economics at the [University of St. Gallen](https://www.unisg.ch). 
 
-My main interests are in topics of industrial organization, such as contracts and auctions. I also study incentives in blockchain markets and in cryptographic protocols.
+My main interests are in theoretical industrial organization, particularly contracts, auctions, and contests. 
+
+I also study incentives in blockchain markets and in cryptographic protocols.
 
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
 
@@ -30,15 +32,17 @@ First Version: January 2025.
 First Version: October 2024. Latest Version: December 2024.
 - [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair))  
 First Version: Mai 2021. Latest Version: Juli 2024.
-- [Optimal Compensation in Competitive Labor Markets with Heterogenous Employers and Workers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5025526) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/))  
-First Version: November 2024.
 - [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
 First Version: March 2020. Latest Version: September 2023.
-- [Blockchain Platform Design under Market Frictions: Decentralization, Service Provision, and Block Rewards](https://ssrn.com/abstract=3954773).  
-First Version: November 2021. Latest Version: September 2023.
+
 <!--- [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/))  
 First Version: November 2018. Latest Version: October 2024.-->
 
+### Work in Progress
+- *Optimal Compensation in Competitive Labor Markets with Heterogenous Employers and Workers* (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/))  
+First Version: November 2024. *Currently undergoing a major revision*.
+- *Blockchain Platform Design under Market Frictions: Decentralization, Service Provision, and Block Rewards*.  
+First Version: November 2021. Latest Version: September 2023. *Currently dormant*.
 
 ### Teaching
 - Introduction to Market Design (Bachelor).
