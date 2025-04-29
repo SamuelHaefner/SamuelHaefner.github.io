@@ -38,8 +38,8 @@ First Version: March 2020. Latest Version: September 2023.
 <!--- [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/))  
 First Version: November 2018. Latest Version: October 2024.-->
 
-### Work in Progress
-- *Optimal Compensation in Competitive Labor Markets with Heterogenous Employers and Workers* (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/))  
+### Other Work / Work in Progress
+- *Optimal Compensation in Competitive Labor Markets with Heterogenous Employers and Workers* (with Niklaus Häusle, Winfried Koeniger, and Alexander Braun). <!--(with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/))-->  
 First Version: November 2024. *Currently undergoing a major revision*.
 - *Blockchain Platform Design under Market Frictions: Decentralization, Service Provision, and Block Rewards*.  
 First Version: November 2021. Latest Version: September 2023. *Currently dormant*.
