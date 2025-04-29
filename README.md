@@ -1,6 +1,6 @@
 I am an Assistant Professor of Economics at the [University of St. Gallen](https://www.unisg.ch). 
 
-My main interests are in theoretical industrial organization, particularly contracts, auctions, and contests. 
+My main interests are in industrial organization, particularly contracts, auctions, and contests. 
 
 I also study incentives in blockchain markets and in cryptographic protocols.
 
