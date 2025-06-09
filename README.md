@@ -26,10 +26,10 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 
 ### Working Papers
+- [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
+First Version: October 2024. Latest Version: June 2025. 
 - [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
 First Version: January 2025. 
-- [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
-First Version: October 2024. Latest Version: December 2024.
 - [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair))  
 First Version: Mai 2021. Latest Version: Juli 2024.
 - [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
