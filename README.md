@@ -15,13 +15,13 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 *The RAND Journal of Economics*, 53(1), 2022, 63-94.
 - [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
 *Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)
-- [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/)).  
+- [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 *Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)
 - [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 *Games and Economic Behavior*, 107, 2018, 109-122.
 - [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).  
 *Games and Economic Behavior*, 104, 2017, 372-391.
-- [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/site/georgnoldeke/)).  
+- [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 *Games*, Volume 7(3), 2016, p. 25.
 
 
