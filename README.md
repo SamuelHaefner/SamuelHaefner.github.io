@@ -8,7 +8,8 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 ### Publications
 - [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
-*American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.
+*American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.   
+![alt text](contracts_label.png)
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
