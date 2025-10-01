@@ -6,6 +6,8 @@ I also study incentives in blockchain markets and in cryptographic protocols.
 
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
 
+&nbsp;
+
 ### Publications
 
 [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
@@ -40,7 +42,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 *Games*, Volume 7(3), 2016, p. 25.   
 ![Contests badge](https://img.shields.io/badge/Field-Contests-green)
 
-
+&nbsp;
    
 ### Working Papers
 
@@ -70,6 +72,8 @@ First Version: November 2018. Latest Version: October 2024.
 ### Other Work / Work in Progress
 - *Blockchain Platform Design under Market Frictions: Decentralization, Service Provision, and Block Rewards*.  
 First Version: November 2021. Latest Version: September 2023. *Currently dormant*.-->
+
+&nbsp;
 
 ### Teaching
 - Introduction to Market Design (Bachelor).
