@@ -9,21 +9,28 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 ### Publications
 - [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
 *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.   
-![alt text](contracts_label.png)
+![Contracts badge](https://img.shields.io/badge/Field-Contracts-blue)
 - [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
-*Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].  
+*Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].    
+![Auctions badge](https://img.shields.io/badge/Field-Auctions-orange)
 - [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
-*The RAND Journal of Economics*, 53(1), 2022, 63-94.
+*The RAND Journal of Economics*, 53(1), 2022, 63-94.    
+![Contracts badge](https://img.shields.io/badge/Field-Contracts-blue)
 - [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
-*Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)
+*Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)   
+![Contests badge](https://img.shields.io/badge/Field-Contests-green)
 - [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
-*Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)
+*Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)   
+![Contests badge](https://img.shields.io/badge/Field-Contests-green)
 - [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
-*Games and Economic Behavior*, 107, 2018, 109-122.
-- [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).  
-*Games and Economic Behavior*, 104, 2017, 372-391.
+*Games and Economic Behavior*, 107, 2018, 109-122.   
+![Other badge](https://img.shields.io/badge/Field-Other-lightgray)  
+- [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).     
+*Games and Economic Behavior*, 104, 2017, 372-391.   
+![Contests badge](https://img.shields.io/badge/Field-Contests-green)
 - [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
-*Games*, Volume 7(3), 2016, p. 25.
+*Games*, Volume 7(3), 2016, p. 25.   
+![Contests badge](https://img.shields.io/badge/Field-Contests-green)
 
 
 ### Working Papers
