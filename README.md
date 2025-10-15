@@ -47,7 +47,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 ### Working Papers
 
 > [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
-> First Version: October 2024. Latest Version: June 2025.   
+> First Version: October 2024. Latest Version: October 2025.   
 > ![Other badge](https://img.shields.io/badge/Topic-Other-lightgray)  
 
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
