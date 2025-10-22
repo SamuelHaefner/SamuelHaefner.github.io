@@ -60,14 +60,14 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > ![Auctions badge](https://img.shields.io/badge/Topic-Auctions-orange)
 > ![Blockchain badge](https://img.shields.io/badge/Topic-Blockchains-pink)
 
+> [Optimal Compensation in Competitive Labor Markets with Heterogeneous Employers and Workers](https://www.ifo.de/en/cesifo/publications/2025/working-paper/optimal-compensation-competitive-labor-markets-heterogeneous) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).      
+> First Version: November 2024. Latest Version: September 2025.   
+> ![Contracts badge](https://img.shields.io/badge/Topic-Contracts-blue)
+
 > [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
 > First Version: March 2020. Latest Version: September 2023.   
 > ![Contracts badge](https://img.shields.io/badge/Topic-Contracts-blue)
 ![Contests badge](https://img.shields.io/badge/Topic-Contests-green)
-
-> [Optimal Compensation in Competitive Labor Markets with Heterogeneous Employers and Workers](https://www.ifo.de/en/cesifo/publications/2025/working-paper/optimal-compensation-competitive-labor-markets-heterogeneous) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).      
-> First Version: November 2024. Latest Version: September 2025.   
-> ![Contracts badge](https://img.shields.io/badge/Topic-Contracts-blue)
 
 <!--- [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/))  
 First Version: November 2018. Latest Version: October 2024.
