@@ -45,6 +45,11 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 &nbsp;
    
 ### Working Papers
+> [Mechanism Design with Information Leakage](https://haoyuanzeng.github.io/papers/Leakage.pdf) (with [Marek Pycia](https://www.econ.uzh.ch/en/people/faculty/pycia.html) and [Haoyuan Zeng](https://haoyuanzeng.github.io/))  
+> First Version: October 2025.   
+> ![Auctions badge](https://img.shields.io/badge/Topic-Auctions-orange)
+> ![Other badge](https://img.shields.io/badge/Topic-Other-lightgray)  
+
 
 > [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
 > First Version: October 2024. Latest Version: October 2025.   
