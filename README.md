@@ -55,32 +55,35 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 ### Working Papers
 > [Mechanism Design with Information Leakage](https://arxiv.org/abs/2511.00715) (with [Marek Pycia](https://www.econ.uzh.ch/en/people/faculty/pycia.html) and [Haoyuan Zeng](https://haoyuanzeng.github.io/))  
 > First Version: October 2025.   
-> ![Auctions badge](https://img.shields.io/badge/Auctions-lightgreen)
-> ![Other badge](https://img.shields.io/badge/MechanismDesign-lightgreen)  
-
+> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
+> &#9698; *Idea:* Optimal mechanisms must be redesigned when information about the history of play can leak across agents or stages.
 
 > [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
 > First Version: October 2024. Latest Version: October 2025.   
-> ![Other badge](https://img.shields.io/badge/GeneralIO-lightgreen)  
-
+> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
+> &#9698; *Idea:* Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.
+> 
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
 > First Version: January 2025. Latest Version: August 2025.   
-> ![Auctions badge](https://img.shields.io/badge/Auctions-lightgreen)
-> ![Blockchain badge](https://img.shields.io/badge/Blockchains-lightgreen)
+> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
+> &#9698; *Idea:* Studies candle auctions experimentally and in the field, comparing bidding behavior and efficiency under classic incentive structures versus modern auction formats.
+
 
 > [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair))  
 > First Version: Mai 2021. Latest Version: June 2025.   
-> ![Auctions badge](https://img.shields.io/badge/Auctions-lightgreen)
-> ![Blockchain badge](https://img.shields.io/badge/Blockchains-lightgreen)
+> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
+> &#9698; *Idea:* Investigates front-running problems in pay-as-bid auctions and the potential of candle auction designs to mitigate adverse front-running effects.
 
 > [Optimal Compensation in Competitive Labor Markets with Heterogeneous Employers and Workers](https://www.ifo.de/en/cesifo/publications/2025/working-paper/optimal-compensation-competitive-labor-markets-heterogeneous) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).      
 > First Version: November 2024. Latest Version: September 2025.   
-> ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen)
+> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
+> &#9698; *Idea:* Develops a model of competitive wage dynamics with heterogeneous employers and workers when screening interacts with consumption smoothing.
 
 > [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
 > First Version: March 2020. Latest Version: September 2023.   
-> ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen)
-![Contests badge](https://img.shields.io/badge/Contests-lightgreen)
+> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
+> &#9698; *Idea:* Characterizes the dynamics of R&D races under moral hazard, showing how staggered exits and shakeout patterns emerge as equilibrium outcomes.
+
 
 <!--- [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/))  
 First Version: November 2018. Latest Version: October 2024.
