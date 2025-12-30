@@ -11,9 +11,10 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 ### Publications
 
 > [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
-> *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.   
-> ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen)    
-> &#9698; Job references incentivize worker effort under moral hazard, but are underprovided because firms do not internalize their incentive benefits.
+> *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.
+> <!-- ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen) -->
+> &#9698; *Idea:* Job references incentivize worker effort under moral hazard, but are underprovided because firms do not internalize their incentive benefits.    
+
 
 > [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 > *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].    
