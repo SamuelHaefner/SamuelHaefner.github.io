@@ -10,35 +10,35 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 ### Publications
 
-> [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
+> [8] [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
 > *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.
 > <details><summary>Idea</summary>Job references incentivize worker effort under moral hazard, but are underprovided because firms do not internalize their incentive benefits.</details>
 
-> [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
+> [7] [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 > *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].    
 > <details><summary>Idea</summary>Accounting for bidder risk aversion is crucial for correctly estimating rents and welfare in share auctions.</details>
 
-> [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
+> [6] [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 > *The RAND Journal of Economics*, 53(1), 2022, 63-94.    
 > <details><summary>Idea</summary>Optimal contracts for information selectively ignore extreme or mild recommendations to align incentives for honest reporting.</details>
 
-> [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
+> [5] [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
 > *Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)   
 > <details><summary>Idea</summary>Certain tug-of-war structures can sustain peaceful, low-effort outcomes instead of perpetual conflict.</details>
 
-> [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
+> [4] [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)   
 > <details><summary>Idea</summary>Some repeated contests with incumbency advantages induce positive sorting among contestants, others induce negative sorting.</details> 
 
-> [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
+> [3] [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 > *Games and Economic Behavior*, 107, 2018, 109-122.   
 > <details><summary>Idea</summary>Biased sampling procedures can be evolutionarily stable in large population games.</details>
 
-> [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).     
+> [2] [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).     
 > *Games and Economic Behavior*, 104, 2017, 372-391.   
 > <details><summary>Idea</summary>A team structure fundamentally changes effort provision and rent dissipation in tug-of-war contests.</details>
 
-> [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
+> [1] [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Games*, Volume 7(3), 2016, p. 25.   
 > <details><summary>Idea</summary>How prizes are shared directly shapes equilibrium effort and competitive intensity in contests.</details>
 
