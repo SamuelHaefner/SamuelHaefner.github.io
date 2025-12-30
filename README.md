@@ -62,7 +62,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > First Version: October 2024. Latest Version: October 2025.   
 > &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
 > &#9698; *Idea:* Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.
-> 
+
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
 > First Version: January 2025. Latest Version: August 2025.   
 > &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
