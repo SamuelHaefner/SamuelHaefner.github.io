@@ -100,9 +100,11 @@ First Version: November 2021. Latest Version: September 2023. *Currently dormant
 
 > Microeconomics for CS (Bachelor).
 
->  Blockchain Markets (Master).
+> Blockchain Markets (Master).
 
->  Corporate Finance (Master).
+> Corporate Finance (Master).
+
+> Topics in Economics (PhD Seminar).
 
 <!--
 - [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/)).  
