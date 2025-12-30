@@ -28,6 +28,22 @@ blockquote p {
   margin: 0;
 }
 
+details {
+  background: #e5e7eb;        /* darker than blockquote */
+  padding: 8px 12px;
+  border-radius: 6px;
+  margin: 12px 0;
+}
+
+summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+details[open] {
+  padding-bottom: 12px;
+}
+
 header {
   width:210px;
   float:left;
