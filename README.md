@@ -14,14 +14,12 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.    
 > &nbsp;    <!-- ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen) -->     
 > &#9698; *Idea:* Job references incentivize worker effort under moral hazard, but are underprovided because firms do not internalize their incentive benefits.
-
 &nbsp;   
 
 > [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 > *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].    
 > &nbsp;    <!--- ![Auctions badge](https://img.shields.io/badge/Auctions-lightgreen) -->    
 > &#9698; *Idea:* Accounting for bidder risk aversion is crucial for correctly estimating rents and welfare in share auctions.
-
 &nbsp;   
 
 > [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
