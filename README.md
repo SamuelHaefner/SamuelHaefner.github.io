@@ -24,62 +24,51 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 > [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
 > *Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)   
-> &nbsp;    <!--- ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
-> &#9698; *Idea:* Certain tug-of-war structures can sustain peaceful, low-effort outcomes instead of perpetual conflict.
+> <details><summary>Idea</summary>Certain tug-of-war structures can sustain peaceful, low-effort outcomes instead of perpetual conflict.</details>
 
 > [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)   
-> &nbsp;    <!---  ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
-> &#9698; *Idea:* Some repeated contests with incumbency advantages induce positive sorting among contestants, others induce negative sorting.   
+> <details><summary>Idea</summary>Some repeated contests with incumbency advantages induce positive sorting among contestants, others induce negative sorting.</details> 
 
 > [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 > *Games and Economic Behavior*, 107, 2018, 109-122.   
-> &nbsp;    <!---   ![Other badge](https://img.shields.io/badge/EvolutionaryGT-lightgreen)-->    
-> &#9698; *Idea:* Biased sampling procedures can be evolutionarily stable in large population games.
+> <details><summary>Idea</summary>Biased sampling procedures can be evolutionarily stable in large population games.</details>
 
 > [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).     
 > *Games and Economic Behavior*, 104, 2017, 372-391.   
-> &nbsp;    <!---    ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
-> &#9698; *Idea:* A team structure fundamentally changes effort provision and rent dissipation in tug-of-war contests.
+> <details><summary>Idea</summary>A team structure fundamentally changes effort provision and rent dissipation in tug-of-war contests.</details>
 
 > [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Games*, Volume 7(3), 2016, p. 25.   
-> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
-> &#9698; *Idea:* How prizes are shared directly shapes equilibrium effort and competitive intensity in contests.
+> <details><summary>Idea</summary>How prizes are shared directly shapes equilibrium effort and competitive intensity in contests.</details>
 
 &nbsp;
    
 ### Working Papers
 > [Mechanism Design with Information Leakage](https://arxiv.org/abs/2511.00715) (with [Marek Pycia](https://www.econ.uzh.ch/en/people/faculty/pycia.html) and [Haoyuan Zeng](https://haoyuanzeng.github.io/))  
 > First Version: October 2025.   
-> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
-> &#9698; *Idea:* Optimal mechanisms must be redesigned when information about the history of play can leak across agents or stages.
+> <details><summary>Idea</summary>Optimal mechanisms must be redesigned when information about the history of play can leak across agents or stages.</details>
 
 > [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
 > First Version: October 2024. Latest Version: October 2025.   
-> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
-> &#9698; *Idea:* Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.
+> <details><summary>Idea</summary>Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.</details>
 
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
 > First Version: January 2025. Latest Version: August 2025.   
-> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
-> &#9698; *Idea:* Studies candle auctions experimentally and in the field, comparing bidding behavior and efficiency under classic incentive structures versus modern auction formats.
+> <details><summary>Idea</summary>Studies candle auctions experimentally and in the field, comparing bidding behavior and efficiency under classic incentive structures versus modern auction formats.</details>
 
 
 > [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair))  
 > First Version: Mai 2021. Latest Version: June 2025.   
-> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
-> &#9698; *Idea:* Investigates front-running problems in pay-as-bid auctions and the potential of candle auction designs to mitigate adverse front-running effects.
+> <details><summary>Idea</summary>Investigates front-running problems in pay-as-bid auctions and the potential of candle auction designs to mitigate adverse front-running effects.</details>
 
 > [Optimal Compensation in Competitive Labor Markets with Heterogeneous Employers and Workers](https://www.ifo.de/en/cesifo/publications/2025/working-paper/optimal-compensation-competitive-labor-markets-heterogeneous) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).      
 > First Version: November 2024. Latest Version: September 2025.   
-> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
-> &#9698; *Idea:* Develops a model of competitive wage dynamics with heterogeneous employers and workers when screening interacts with consumption smoothing.
+> <details><summary>Idea</summary>Develops a model of competitive wage dynamics with heterogeneous employers and workers when screening interacts with consumption smoothing.</details>
 
 > [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
 > First Version: March 2020. Latest Version: September 2023.   
-> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
-> &#9698; *Idea:* Characterizes the dynamics of R&D races under moral hazard, showing how staggered exits and shakeout patterns emerge as equilibrium outcomes.
+> <details><summary>Idea</summary>Characterizes the dynamics of R&D races under moral hazard, showing how staggered exits and shakeout patterns emerge as equilibrium outcomes.</details>
 
 
 <!--- [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/))  
