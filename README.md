@@ -11,7 +11,9 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 ### Publications
 
 > [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
-> *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.
+> *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.   
+> &nbsp;  <!--   ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen) -->     
+> &#9698; *Idea:* Job references incentivize worker effort under moral hazard, but are underprovided because firms do not internalize their incentive benefits.
 
 > [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 > *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].    
@@ -31,23 +33,17 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)   
 > &nbsp;    <!---  ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
-> &#9698; *Idea:* Some repeated contests with incumbency advantages induce positive sorting among contestants, others induce negative sorting. 
-
-&nbsp;   
+> &#9698; *Idea:* Some repeated contests with incumbency advantages induce positive sorting among contestants, others induce negative sorting.   
 
 > [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 > *Games and Economic Behavior*, 107, 2018, 109-122.   
 > &nbsp;    <!---   ![Other badge](https://img.shields.io/badge/EvolutionaryGT-lightgreen)-->    
 > &#9698; *Idea:* Biased sampling procedures can be evolutionarily stable in large population games.
 
-&nbsp;   
-
 > [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).     
 > *Games and Economic Behavior*, 104, 2017, 372-391.   
 > &nbsp;    <!---    ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
 > &#9698; *Idea:* A team structure fundamentally changes effort provision and rent dissipation in tug-of-war contests.
-
-&nbsp;   
 
 > [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Games*, Volume 7(3), 2016, p. 25.   
@@ -123,7 +119,4 @@ University of Basel. Fall terms 2011-12, 14-15, 17-18.
 University of Basel. Spring terms 2015-16, 18-19.
 - *Microeconomics II* (B.Sc., "Mikroökonomik II", in German, tutoring only).  
 University of St. Gallen. Fall term 2020.
-
-<!-- > &nbsp;    ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen) -->     
-> &#9698; *Idea:* Job references incentivize worker effort under moral hazard, but are underprovided because firms do not internalize their incentive benefits.
 -->
