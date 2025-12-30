@@ -11,30 +11,24 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 ### Publications
 
 > [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
-> *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.    
-> &nbsp;    <!-- ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen) -->     
+> *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.
+<!-- > &nbsp;    ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen) -->     
 > &#9698; *Idea:* Job references incentivize worker effort under moral hazard, but are underprovided because firms do not internalize their incentive benefits.
-&nbsp;   
 
 > [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 > *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].    
 > &nbsp;    <!--- ![Auctions badge](https://img.shields.io/badge/Auctions-lightgreen) -->    
 > &#9698; *Idea:* Accounting for bidder risk aversion is crucial for correctly estimating rents and welfare in share auctions.
-&nbsp;   
 
 > [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 > *The RAND Journal of Economics*, 53(1), 2022, 63-94.    
 > &nbsp;    <!-- ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen)-->    
 > &#9698; *Idea:* Optimal contracts for information selectively ignore extreme or mild recommendations to align incentives for honest reporting.
 
-&nbsp;   
-
 > [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
 > *Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)   
 > &nbsp;    <!--- ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
 > &#9698; *Idea:* Certain tug-of-war structures can sustain peaceful, low-effort outcomes instead of perpetual conflict.
-
-&nbsp;   
 
 > [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)   
