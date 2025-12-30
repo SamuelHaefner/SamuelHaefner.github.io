@@ -18,34 +18,38 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 > [Risk Aversion in Share Auctions: Estimating Import Rents from TRQs in Switzerland](https://doi.org/10.3982/QE1907).     
 > *Quantitative Economics*, 14(2), 2023, 419-470. [[Replication Files](https://github.com/SamuelHaefner/RiskAversionInShareAuctions)].    
-> <!--- ![Auctions badge](https://img.shields.io/badge/Auctions-lightgreen) -->
-> &#9698; Accounting for bidder risk aversion is crucial for correctly estimating rents and welfare in share auctions.
+> &nbsp;    <!--- ![Auctions badge](https://img.shields.io/badge/Auctions-lightgreen) -->    
+> &#9698; *Idea:* Accounting for bidder risk aversion is crucial for correctly estimating rents and welfare in share auctions.
 
 > [On Young Turks and Yes Men: Optimal Contracting for Advice](https://doi.org/10.1111/1756-2171.12400) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).  
 > *The RAND Journal of Economics*, 53(1), 2022, 63-94.    
-> <!-- ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen)-->
-> &#9698; Optimal contracts for information selectively ignore extreme or mild recommendations to align incentives for honest reporting.
+> &nbsp;    <!-- ![Contracts badge](https://img.shields.io/badge/Contracts-lightgreen)-->    
+> &#9698; *Idea:* Optimal contracts for information selectively ignore extreme or mild recommendations to align incentives for honest reporting.
 
 > [Eternal Peace in the Tug-of-War?](https://doi.org/10.1007/s00199-020-01287-9)  
 > *Economic Theory*, 74, 2022, 1570–1101. (Online first: 2020.)   
-> <!--- ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->
-> &#9698; Certain tug-of-war structures can sustain peaceful, low-effort outcomes instead of perpetual conflict.
+> &nbsp;    <!--- ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
+> &#9698; *Idea:* Certain tug-of-war structures can sustain peaceful, low-effort outcomes instead of perpetual conflict.
 
 > [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)   
-> ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)
+> &nbsp;    <!---  ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
+> &#9698; *Idea:* Some repeated contests with incumbency advantages induce positive sorting among contestants, others induce negative sorting. 
 
 > [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 > *Games and Economic Behavior*, 107, 2018, 109-122.   
-> ![Other badge](https://img.shields.io/badge/EvolutionaryGT-lightgreen)  
+> &nbsp;    <!---   ![Other badge](https://img.shields.io/badge/EvolutionaryGT-lightgreen)-->    
+> &#9698; *Idea:* Biased sampling procedures can be evolutionarily stable in large population games.
 
 > [A Tug-of-War Team Contest](https://doi.org/10.1016/j.geb.2017.04.013).     
 > *Games and Economic Behavior*, 104, 2017, 372-391.   
-> ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)
+> &nbsp;    <!---    ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)-->    
+> &#9698; *Idea:* A team structure fundamentally changes effort provision and rent dissipation in tug-of-war contests.
 
 > [Payoff Shares in Two-Player Contests](http://www.mdpi.com/2073-4336/7/3/25/pdf) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Games*, Volume 7(3), 2016, p. 25.   
-> ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)
+> &nbsp;    <!---     ![Contests badge](https://img.shields.io/badge/Contests-lightgreen)     -->    
+> &#9698; *Idea:* How prizes are shared directly shapes equilibrium effort and competitive intensity in contests.
 
 &nbsp;
    
