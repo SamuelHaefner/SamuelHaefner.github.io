@@ -50,7 +50,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > <details><summary>Idea</summary>When the mechanism designer cannot prevent information leakage about the history of play among agents, leakage-proofness becomes a key concept.</details>
 
 > [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
-> First Version: October 2024. Latest Version: October 2025.   
+> First Version: October 2024. Latest Version: October 2025. RR at ReStud.
 > <details><summary>Idea</summary>Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.</details>
 
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
