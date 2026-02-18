@@ -54,7 +54,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > <details><summary>Idea</summary>Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.</details>
 
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
-> First Version: January 2025. Latest Version: August 2025.   
+> First Version: January 2025. Latest Version: February 2026.   
 > <details><summary>Idea</summary>Studies ascending open-outcry auctions with a random ending time, so-called candle auctions, experimentally and in the field.</details>
 
 
