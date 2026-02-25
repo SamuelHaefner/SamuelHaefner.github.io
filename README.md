@@ -58,8 +58,8 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > <details><summary>Idea</summary>Studies ascending open-outcry auctions with a random ending time, so-called candle auctions, experimentally and in the field.</details>
 
 
-> [Front-Running and Candle Auctions](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair))  
-> First Version: Mai 2021. Latest Version: June 2025.   
+> [Front-Running in Ascending Auctions: The Case for a Random-Close Rule](https://ssrn.com/abstract=3846363) (with [Alistair Stewart](https://research.web3.foundation/team_members/alistair))  
+> First Version: Mai 2021. Latest Version: February 2026.   
 > <details><summary>Idea</summary>When information leaks in pay-as-bid auctions, the candle auction can mitigate adverse front-running effects.</details>
 
 > [Optimal Compensation in Competitive Labor Markets with Heterogeneous Employers and Workers](https://www.ifo.de/en/cesifo/publications/2025/working-paper/optimal-compensation-competitive-labor-markets-heterogeneous) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).      
