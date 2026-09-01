@@ -28,7 +28,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 > [4] [Sorting in Iterated Incumbency Contests](https://doi.org/10.1007/s00199-019-01205-8) (with [Georg Nöldeke](https://sites.google.com/view/georgnoldeke)).  
 > *Economic Theory*, 74, 2022, 1103–1140. (Online first: 2019.)   
-> <details><summary>Idea</summary>Some repeated contests with incumbency advantages induce positive sorting among incumbents, others induce negative sorting.</details> 
+> <details><summary>Idea</summary>Some repeated contests with incumbency advantages induce positive sorting among incumbents; others induce negative sorting.</details> 
 
 > [3] [Stable Biased Sampling](https://doi.org/10.1016/j.geb.2017.11.006).  
 > *Games and Economic Behavior*, 107, 2018, 109-122.   
@@ -50,7 +50,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > <details><summary>Idea</summary>When the mechanism designer cannot prevent information leakage about the history of play among agents, leakage-proofness becomes a key concept.</details>
 
 > [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
-> First Version: October 2024. Latest Version: May 2026. RR at REStud.
+> First Version: October 2024. Latest Version: May 2026. Conditionally Accepted at REStud.
 > <details><summary>Idea</summary>Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.</details>
 
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
