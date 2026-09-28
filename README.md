@@ -10,6 +10,10 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 
 ### Publications
 
+> [9] [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
+> First Version: October 2024. Latest Version: May 2026. Forthcoming at REStud.
+> <details><summary>Idea</summary>Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.</details>
+
 > [8] [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
 > *American Economic Journal: Microeconomics*, 15(3), 2023, 33-77.
 > <details><summary>Idea</summary>Job references incentivize worker effort under moral hazard, but are underprovided because firms do not internalize their incentive benefits.</details>
@@ -49,10 +53,6 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > First Version: October 2025.   
 > <details><summary>Idea</summary>When the mechanism designer cannot prevent information leakage about the history of play among agents, leakage-proofness becomes a key concept.</details>
 
-> [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
-> First Version: October 2024. Latest Version: May 2026. Accepted for Publication at REStud.
-> <details><summary>Idea</summary>Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.</details>
-
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
 > First Version: January 2025. Latest Version: February 2026.   
 > <details><summary>Idea</summary>Studies ascending open-outcry auctions with a random ending time, so-called candle auctions, experimentally and in the field.</details>
@@ -62,15 +62,15 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 > <details><summary>Idea</summary>When information leaks in pay-as-bid auctions, the candle auction can mitigate adverse front-running effects.</details>
 
 > [Optimal Compensation in Competitive Labor Markets with Heterogeneous Employers and Workers](https://www.ifo.de/en/cesifo/publications/2025/working-paper/optimal-compensation-competitive-labor-markets-heterogeneous) (with [Niklas Häusle](https://www.uni-leipzig.de/personenprofil/mitarbeiter/niklas-haeusle), [Winfried Koeniger](https://www.wkoeniger.com/), and [Alexander Braun](https://www.ivw.unisg.ch/de/person/prof-dr-alexander-braun/)).      
-> First Version: November 2024. Latest Version: September 2025. RejR at JEBO.   
+> First Version: November 2024. Latest Version: September 2025.   
 > <details><summary>Idea</summary>Develops a model of competitive wage dynamics when screening interacts with consumption smoothing.</details>
 
-> [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
+<!--- > [Shakeouts and Staggered Exits from an R&D Race with Moral Hazard](http://ssrn.com/abstract=3564033).  
 > First Version: March 2020. Latest Version: September 2023.   
 > <details><summary>Idea</summary>In R&D races with moral hazard, staggered exits and shakeout patterns emerge as equilibrium outcomes.</details>
 
 
-<!--- [Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/))  
+[Allocating Tariff-Rate Quotas: The Case of Domestic Purchase Requirement](https://dx.doi.org/10.2139/ssrn.3293534) (with [Yvan Lengwiler](https://wwz.unibas.ch/en/lengwiler/))  
 First Version: November 2018. Latest Version: October 2024.
 
 ### Other Work / Work in Progress
