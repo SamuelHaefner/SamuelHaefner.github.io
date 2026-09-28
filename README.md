@@ -11,7 +11,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
 ### Publications
 
 > [9] [Price Gouging and the Monopoly Option](https://papers.ssrn.com/abstract=4974874) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/))  
-> First Version: October 2024. Latest Version: May 2026. Forthcoming at REStud.
+> *Forthcoming in the Review of Economic Studies.*
 > <details><summary>Idea</summary>Price gouging reflects firms’ dynamic incentives under price competition when a supply disruption hits.</details>
 
 > [8] [Working for References](https://www.aeaweb.org/articles?id=10.1257/mic.20210299) (with [Curtis Taylor](http://people.duke.edu/~crtaylor/)).    
