@@ -50,7 +50,7 @@ I am affiliated with the [Zurich Center for Market Design](https://www.marketdes
    
 ### Working Papers
 > [Mechanism Design with Information Leakage](https://arxiv.org/abs/2511.00715) (with [Marek Pycia](https://www.econ.uzh.ch/en/people/faculty/pycia.html) and [Haoyuan Zeng](https://haoyuanzeng.github.io/))  
-> First Version: October 2025.   
+> First Version: October 2025. Latest Version: October 2026.     
 > <details><summary>Idea</summary>When the mechanism designer cannot prevent information leakage about the history of play among agents, leakage-proofness becomes a key concept.</details>
 
 > [The Candle Auction in the Field and in the Lab](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5109856) (with [Jonas Gehrlein](https://research.web3.foundation/team_members/Jonas) and [Jörg Oechssler](https://sites.google.com/view/oechssler/home))  
