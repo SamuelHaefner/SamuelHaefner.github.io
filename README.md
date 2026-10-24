@@ -1,8 +1,6 @@
-I am an Assistant Professor of Economics at the [University of St. Gallen](https://www.unisg.ch). 
+I am an Assistant Professor of Economics at the [University of St. Gallen](https://www.unisg.ch). My research lies at the intersection of industrial organization, contract theory, and market design.
 
-My main interests are in industrial organization, particularly contracts, auctions, and contests. 
-
-I also study incentives in blockchain markets and in cryptographic protocols.
+I study how market institutions and contractual arrangements shape and affect strategic behavior, with a particular focus on information, dynamic incentives, and market power. My work combines economic theory with empirical and experimental analysis.
 
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
 
