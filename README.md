@@ -2,7 +2,7 @@ I am an Assistant Professor of Economics at the [University of St. Gallen](https
 
 My research lies at the intersection of industrial organization, contract theory, and market design.
 
-I study how market institutions and contractual arrangements determine strategic behavior, with a particular focus on information, dynamic incentives, and market power. My work combines economic theory with empirical and experimental analysis. I am also interested in contributing to ongoing policy discussions. 
+I study how market institutions and contractual arrangements determine strategic behavior, with a particular focus on information, dynamic incentives, and market power. My work combines economic theory with empirical and experimental analysis. I also aim to contribute to ongoing policy discussions. 
 
 I am affiliated with the [Zurich Center for Market Design](https://www.marketdesign.uzh.ch).
 
